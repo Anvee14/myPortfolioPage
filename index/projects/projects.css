@@ -1,6 +1,6 @@
 
 h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(5, 109, 11);
     text-align: center;
 }
 p{
@@ -36,6 +36,7 @@ h3 {
     height:370px ;
     
     padding-bottom: 30px;
+    margin-left: 3%;
 }
 .games{
     color: rgb(90, 20, 255);
@@ -49,5 +50,10 @@ img{
     width:370px  ;
     height:370px
 }
-
+h5{
+    position: absolute;
+    top:0.5%;
+    left:1%;
+    font-size:large;
+}
 

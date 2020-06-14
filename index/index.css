@@ -1,0 +1,38 @@
+h1 {
+    
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+
+.index{
+   background-image: url("bg.png");
+   background-position: top;
+   background-repeat: no-repeat;
+   background-size: 100%;
+   
+   
+    
+  
+}
+h4{
+    color: rgb(87, 40, 175);
+    text-align: center;
+    font-size: xx-large;
+     
+    
+}
+.image{
+    color: rgb(85, 37, 6);
+    font-style: oblique;
+    font-size: xx-large;
+    position: absolute;
+    left: 33%;
+    top: 45%;
+}
+h5{
+    position: absolute;
+    top:0.5%;
+    left:1%;
+    font-size:large;
+}
