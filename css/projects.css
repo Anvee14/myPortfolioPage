@@ -1,10 +1,10 @@
 
 h1 {
-    color: rgb(5, 109, 11);
+    color: #056d0b;
     text-align: center;
 }
 p{
-    color: rgb(12, 4, 12);
+    color: #0c040c;
     text-align: center;
     font-size: xx-large;
      
@@ -20,12 +20,12 @@ h3 {
   }
   
 .header{
-    color: rgb(15, 15, 15);
+    color: #0f0f0f;
     text-align: center;
 
 }
 .content{
-    color: rgb(20, 43, 255);
+    color:#142bff;
     display:flex;
     flex-direction:row;
     
@@ -39,7 +39,7 @@ h3 {
     margin-left: 3%;
 }
 .games{
-    color: rgb(90, 20, 255);
+    color: #5a14ff;
     display:flex;
     flex-direction: column;
     padding-right: 30px;

@@ -1,6 +1,6 @@
 h1 {
     
-    color: rgb(0, 0, 0);
+    color:#000000;
     text-align: center;
 }
 
@@ -14,14 +14,14 @@ h1 {
    
 }
 h4{
-    color: rgb(87, 40, 175);
+    color:#5728af;
     text-align: center;
     font-size: xx-large;
      
     
 }
 .image{
-    color: rgb(85, 37, 6);
+    color:#552506;
     font-style: oblique;
     font-size: xx-large;
     position: absolute;
