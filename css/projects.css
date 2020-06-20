@@ -1,16 +1,16 @@
 
 h1 {
-    color: #056d0b;
+    color: #ffffff;
     text-align: center;
 }
 p{
-    color: #0c040c;
+    color: #ffffff;
     text-align: center;
-    font-size: xx-large;
+    font-size: small;
      
     position: absolute;
-    left: 40%;
-    top: 40%;
+    left:42%;
+    top: 7%;
     
 }
 h3 {
@@ -35,25 +35,45 @@ h3 {
     width:370px  ;
     height:370px ;
     
-    padding-bottom: 30px;
+    padding-bottom: 7%;
     margin-left: 3%;
 }
 .games{
-    color: #5a14ff;
+    color: #14a9ff;
     display:flex;
     flex-direction: column;
     padding-right: 30px;
+    opacity:1;
+  
     
 
 }
 img{
     width:370px  ;
-    height:370px
+    height:370px;
+    
+      
+        filter : blur(2.5px);
+
 }
 h5{
+    color:rgb(52, 20, 255);
     position: absolute;
     top:0.5%;
     left:1%;
     font-size:large;
+}
+h2{
+    font-size: x-large;
+}
+
+.games:hover img{
+   
+    filter : blur(0px);
+    margin-top:-3% ;
+
+}
+h6{
+    font-size:xx-small
 }
 
